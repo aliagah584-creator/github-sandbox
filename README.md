@@ -53,7 +53,7 @@ download: https://example.com/file.zip
 ```
 
 ```
-download: https://example.com/a.zip https://example.com/b.pdf https://example.com/c.zip
+download: https://example.com/a.zip https://example.com/b.pdf  https://example.com/c.zip
 ```
 
 ---
