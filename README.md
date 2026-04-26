@@ -103,5 +103,15 @@ After committing, you can monitor the workflow:
 
 - URLs must be publicly accessible (no login required)
 - Separate multiple URLs with spaces
+  
 - The workflow skips itself using `[skip ci]` in its own commit message to avoid infinite loops
 - If no valid `download:` or `download-zip:` command is found in the commit message, the workflow will exit without doing anything
+
+
+
+
+
+
+
+
+download: https://w10.tuberipper.cc/download/2?_k=81247d58353f9e33e8d7b5da6488b3ba
