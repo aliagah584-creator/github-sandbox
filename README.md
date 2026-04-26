@@ -34,7 +34,7 @@ You trigger downloads by editing any file directly on GitHub and using a special
 
 The workflow will run automatically and the downloaded files will appear in the `downloads/` folder.
 
----
+--- 
 
 ## 📝 Commands
 
@@ -109,6 +109,3 @@ After committing, you can monitor the workflow:
 
 
 
-
-
-download: https://w10.tuberipper.cc/download/2?_k=81247d58353f9e33e8d7b5da6488b3ba
